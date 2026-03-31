@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Lol
+<img width="1020" height="640" alt="image" src="https://github.com/user-attachments/assets/1d07d79e-229b-4c69-899c-5107a6932869" />
