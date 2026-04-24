@@ -1,4 +1,5 @@
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/abcb112d-24b3-4c2d-bfc1-aff519a7f216" />
+<div align="center"> 
+<div class="tenor-gif-embed" data-postid="26870445" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/happy-hello-excited-hi-racing-gif-26870445">Happy Hello GIF</a>from <a href="https://tenor.com/search/happy-gifs">Happy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
