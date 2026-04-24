@@ -1,6 +1,3 @@
 <div align="center"> 
-<gif width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/abc7ea64-1602-4ad4-9bd8-7f6d5fd46a1a" />
-
-
-
+<img width="400" height="225" alt="happy-hello" src="https://github.com/user-attachments/assets/2bee92d2-f317-4c59-b729-88755eee39f7" />
 
